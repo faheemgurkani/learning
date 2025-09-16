@@ -17,6 +17,8 @@ __pycache__/
 # VSCode
 .vscode/
 
+.env
+
 # Ignore everything in RL/src except the notebook
 RL/src/*
 !RL/src/understanding-rl.ipynb
